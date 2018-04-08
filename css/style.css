@@ -1212,6 +1212,7 @@ h3 {
 #fh5co-pricing-section .pricing {
   display: block;
   float: left;
+  text-align: left;
   margin-bottom: 30px;
 }
 #fh5co-pricing-section .price-box {
@@ -1253,6 +1254,10 @@ h3 {
   text-transform: uppercase;
   font-weight: 700;
   color: #888f94;
+}
+
+#fh5co-pricing-section .pricecontent {
+  text-align: left;
 }
 #fh5co-pricing-section .pricing-plan.pricing-plan-offer {
   margin-bottom: 24px;
